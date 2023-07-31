@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37cadad9.css",
+    "main.js": "/static/js/main.109bad47.js",
+    "static/media/illustration59.svg": "/static/media/illustration59.eb8eed3478ef286c89fa72719411dd84.svg",
+    "static/media/MADEEvolveSansLight.woff": "/static/media/MADEEvolveSansLight.38b7f9f75d1bbf022be0.woff",
+    "static/media/MADEEvolveSansMedium.woff": "/static/media/MADEEvolveSansMedium.26c576cd951cf44a641e.woff",
+    "static/media/MADEEvolveSansRegular.woff": "/static/media/MADEEvolveSansRegular.e250d84cd50546da9cb9.woff",
+    "static/media/MADEEvolveSansBold.woff": "/static/media/MADEEvolveSansBold.b512336e5ade47800058.woff",
+    "static/media/MADEEvolveSansLight2.woff2": "/static/media/MADEEvolveSansLight2.517e0a94594c0709c7bc.woff2",
+    "static/media/MADEEvolveSansMedium2.woff2": "/static/media/MADEEvolveSansMedium2.c0a395b1260e035fdca8.woff2",
+    "static/media/MADEEvolveSansRegular2.woff2": "/static/media/MADEEvolveSansRegular2.05b6c388ee479543ec87.woff2",
+    "static/media/MADEEvolveSansBold2.woff2": "/static/media/MADEEvolveSansBold2.e30b556a06b7e1d6c28d.woff2",
+    "static/media/illustration45.svg": "/static/media/illustration45.2a467f38ff2cbdfa749fd1c1c7e43ba2.svg",
+    "index.html": "/index.html",
+    "main.37cadad9.css.map": "/static/css/main.37cadad9.css.map",
+    "main.109bad47.js.map": "/static/js/main.109bad47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37cadad9.css",
+    "static/js/main.109bad47.js"
+  ]
+}
